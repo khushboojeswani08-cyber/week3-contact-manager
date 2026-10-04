@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+contacts.json
+contacts_export.csv
+.vscode/
+.idea/
